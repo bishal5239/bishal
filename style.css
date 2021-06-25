@@ -1,0 +1,17 @@
+body{
+    background-image: url("image/bishal.jpg");
+}
+div{
+    background-color: rgb(165, 139, 153);
+}
+.block1{
+    background-color: whitesmoke;
+}
+.v1{
+    object-position: left;
+
+}
+.i1{
+    width: 130px;
+    height: auto;
+}
